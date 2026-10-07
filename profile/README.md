@@ -28,7 +28,7 @@ Our work supports **researchers, trainers, educators, and scientific communities
 ### 📚 Explore All Course Repositories
 
 Visit our GitHub index for a full list of available courses:  
-👉 [Wellcome Sanger Institute - Scientific Training and Events Repository Index](https://github.com/WCSCourses/index/blob/main/README.md)
+👉 [Wellcome Sanger Institute - Scientific Training and Events Repository Index](https://github.com/WSITraining/.github/blob/main/Index.md)
 
 
 ### Citing and Re-using Course Material
